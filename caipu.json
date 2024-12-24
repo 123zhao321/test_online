@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "logo": "https://ts1.cn.mm.bing.net/th/id/R-C.9fc445fab413ea2d7d032b2c0f924c2b?rik=EwfqdiCifxFZ3w&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn%2fw1024h644%2f20180125%2f56fa-fyqwiqk5312824.png&ehk=CfJ9VBOjsuLmskEuU2YcBu8Nd633HB2pkQttzpbBHtU%3d&risl=&pid=ImgRaw&r=0",
+      "name": "武汉热干面",
+      "type": "无添加剂",
+      "prepare": "圆面条，高汤少许，老抽，萝卜丁，芝麻酱一勺，红油卤水，蒜汁，辣椒油，葱花",
+      "special": [
+        "高汤：筒子水-500g 水5斤 大葱-100g 生姜-100g 盐-10g 熬制半小时",
+        "芝麻酱：芝麻盐-500g 熟油-150g 白胡椒粉-10g",
+        "红油卤水：三五火锅底料-300g 水-1kg 盐-15g 用200g油炒（八角-10g 桂皮-10g 香叶-10g 白扣-10g 大茴香-10g）"
+      ],
+      "steps": "本道菜比较简单，将面煮熟之后，加入上面的原料即可，注意：特殊的食材需要提前准备"
+    },
+    {
+      "logo": "https://ts1.cn.mm.bing.net/th/id/R-C.763e67f5dbaa32412a75c7933fa60bc6?rik=rpuNJ8c1wHbOGA&riu=http%3a%2f%2fn.sinaimg.cn%2fsinacn%2fw640h506%2f20180114%2fd9cb-fyqrewh9588944.jpg&ehk=MWRPT4qPXdNecYyJLN53kbNLRnOw3HLWkJ%2fWo9EmGi4%3d&risl=&pid=ImgRaw&r=0",
+      "name": "皮蛋瘦肉粥",
+      "type": "有添加剂",
+      "prepare": "大米，水，盐20克，鸡精15克，星湖乙基麦芽酚纯香型0.3克，黄原胶，食用碱，瘦肉切丝，皮蛋",
+      "special": [
+        "黄原胶粉1克+80克水，用料理机或料理棒打成胶状，常温下放2个小时，再打一次，就是黄原胶了黄原胶没用完的可以放到碗中，放入冰箱内保鲜。注意：如果冰箱有异味，一定要在碗口用保鲜膜封好再放入冰箱，然后第二天尽快用完。"
+      ],
+      "steps": "水开之后添加辅料：食用碱，乙基麦芽酚纯香型，根据口味添加盐，盖锅盖熬一小时。添加主料：黄原胶，鸡精15g，瘦肉切丝放入，搅拌均匀，煮3、4分钟，适量放皮蛋"
+    }
+  ]
+}
