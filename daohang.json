@@ -1,36 +1,36 @@
 {
   "data":[
-{
-    "url":"https://www.bilibili.com/"
-    "text":"B站"
-  },
-  {
-    "url":"https://www.acfun.cn/"
-    "text":"A站"
-  },
-{
-    "url":"https://www.douyin.com/"
-    "text":"抖音"
-  },
-{
-    "url":"https://www.baidu.com/"
-    "text":"百度"
-  },
-{
-    "url":"https://zaiwen.xueban.org.cn/"
-    "text":"在问"
-  },
-{
-    "url":"https://www.xuebapan.com/"
-    "text":"学霸盘"
-  },
-{
-    "url":"https://b7.baipiao.top/admin.html"
-    "text":"资源网"
-  },
-{
-    "url":"https://github.com/"
-    "text":"Github"
-  }
+            {
+                url:"https://www.bilibili.com/",
+                text:"B站"
+            },
+            {
+                url:"https://www.acfun.cn/",
+                text:"A站"
+            },
+            {
+                url:"https://www.douyin.com/",
+                text:"抖音"
+            },
+            {
+                url:"https://www.baidu.com/",
+                text:"百度"
+            },
+            {
+                url:"https://zaiwen.xueban.org.cn/",
+                text:"在问"
+            },
+            {
+                url:"https://www.xuebapan.com/",
+                text:"学霸盘"
+            },
+            {
+                url:"https://b7.baipiao.top/admin.html",
+                text:"资源网"
+            },
+            {
+                url:"https://github.com/",
+                text:"Github"
+            }
   ]
 }
