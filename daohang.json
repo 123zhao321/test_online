@@ -39,6 +39,14 @@
     {
       "url":"https://www.acfun.cn/",
       "text":"A站"
+    },
+    {
+      "url":"https://www.douyin.com/?recommend=1",
+      "text":"抖音"
+    },
+    {
+      "url":"https://music.163.com/",
+      "text":"网抑云"
     }
   ]
 }
