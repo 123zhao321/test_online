@@ -31,6 +31,14 @@
     {
       "url":"https://fanyi.baidu.com/",
       "text":"翻译"
+    },
+    {
+      "url":"https://tool.iitang.com/eatwhat",
+      "text":"随机菜"
+    },
+    {
+      "url":"https://www.acfun.cn/",
+      "text":"A站"
     }
   ]
 }
