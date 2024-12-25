@@ -4,14 +4,6 @@
     "url":"https://www.bilibili.com/",
     "text":"B站"
   },
-  {
-    "url":"https://www.acfun.cn/",
-    "text":"A站"
-  },
-{
-    "url":"https://www.douyin.com/",
-    "text":"抖音"
-  },
 {
     "url":"https://www.baidu.com/",
     "text":"百度"
@@ -28,9 +20,13 @@
     "url":"https://b7.baipiao.top/admin.html",
     "text":"资源网"
   },
-{
-    "url":"https://github.com/",
-    "text":"Github"
-  }
+    {
+      "url":"https://www.csdn.net/",
+      "text":"CSDN"
+    },
+    {
+      "url":"https://tj.shshinfo.com/tz/pcw/douyin6002.html",
+      "text":"抖音"
+    }
   ]
 }
