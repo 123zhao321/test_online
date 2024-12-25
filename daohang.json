@@ -27,6 +27,10 @@
     {
       "url":"https://www.douyin.com/?recommend=1",
       "text":"抖音"
+    },
+    {
+      "url":"https://fanyi.baidu.com/mtpe-individual/multimodal#/",
+      "text":"翻译"
     }
   ]
 }
